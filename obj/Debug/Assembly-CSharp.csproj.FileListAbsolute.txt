@@ -1,0 +1,214 @@
+C:\Users\Aleksey\Desktop\FanyAnimals\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Aleksey\Desktop\FanyAnimals\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Aleksey\Desktop\FanyAnimals\obj\Debug\Assembly-CSharp.dll
+C:\Users\Aleksey\Desktop\FanyAnimals\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\obj\Debug\Assembly-CSharp.dll
+C:\Users\Mark\Desktop\GITFA\FanyAnimals-master\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\obj\Debug\Assembly-CSharp.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\Aleksey\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Apple.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Common.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Editor.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Security.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Stores.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Tizen.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\winrt.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.Purchasing.xml
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\obj\Debug\Assembly-CSharp.dll
+C:\Users\Mark\Desktop\FunnyAnimals-Test\FunnyAnimals-Test\FanyAnimals-master\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Apple.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Common.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Editor.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Security.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Stores.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Tizen.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\winrt.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.Purchasing.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\obj\Debug\Assembly-CSharp.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 0.93\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Apple.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Common.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Editor.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Security.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Stores.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Tizen.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\winrt.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.Purchasing.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\obj\Debug\Assembly-CSharp.dll
+C:\Users\Aleksey\Desktop\FanyAnimals 1.0\obj\Debug\Assembly-CSharp.pdb

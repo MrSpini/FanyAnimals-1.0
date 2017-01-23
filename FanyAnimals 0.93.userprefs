@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BuyCollection.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Shop\SelectCollection.cs" Line="11" Column="30" />
+      <File FileName="Assets\Scripts\BuyCollection.cs" Line="141" Column="17" />
+      <File FileName="Assets\Scripts\Shop\ShopPanel.cs" Line="22" Column="1" />
+      <File FileName="Assets\Scripts\Settings\Settings.cs" Line="14" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
